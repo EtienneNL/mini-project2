@@ -15,7 +15,7 @@
     3. Apple
     4. Microsoft
     5. Google
-    It covers all the "max" stock data of each company/index, meaning from the start of the recording up till now.
+- It covers all the "max" stock data of each company/index, meaning from the start of the recording up till now.
 
 - The dataset also contains a column indicating if a date is a federal holiday of the US.
 - The dataset exists both in excel format and in a pandas dataframe

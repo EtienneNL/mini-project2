@@ -15,7 +15,7 @@ This is a mini-project (2nd project of the Ironhack data analytics course) which
 1. as a practice for what we have learned on interacting with APIs and webscraping
 2. to gather data for future projects in the later modules in the course (data visualization). That being said, the same repository will be used for the data visualization project as well.
 
-The dataset, which was chosen, was solely driven by the [research question](#research-questions). Those reseach questions revolve around stock data
+The dataset, which was chosen, was solely driven by the [research questions](#research-questions). Those reseach questions revolve around stock data
 
 
 ## Research questions
